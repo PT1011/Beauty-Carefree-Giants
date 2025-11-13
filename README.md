@@ -15,4 +15,4 @@ DML operations are restricted in some views is because the tables are set to rea
 
 ## How is a materialized view different from a regular view?
 
-The biggest difference is that while a normal view is completley virtual, a materialized view physically stores the view query results.
+The biggest difference is that while a normal view is completely virtual, a materialized view physically stores the view query results.
